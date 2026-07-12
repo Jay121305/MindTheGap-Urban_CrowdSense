@@ -26,7 +26,7 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/MindTheGap.git
+   git clone https://github.com/Jay121305/MindTheGap.git
    cd MindTheGap
 2. Install Dependencies  :
    flutter pub get
